@@ -1,0 +1,28 @@
+{
+  "name": "donaldrodriguez-os",
+  "version": "1.0.0",
+  "description": "A Node.js module containing cryptographic utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donaldrodriguez2065060/donaldrodriguez-os"
+  },
+  "dependencies": {
+	  "dorothymoore-ini": "1.0.0",
+"lisacollins": "1.0.0",
+"tai32max32": "1.0.0",
+"denisgorlov-math": "1.0.0",
+"spleef-mod": "1.0.0",
+"solodop": "1.0.0",
+    "randomstring": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donaldrodriguez2065060/donaldrodriguez-os/issues"
+  },
+  "homepage": "https://github.com/donaldrodriguez2065060/donaldrodriguez-os#readme"
+}
